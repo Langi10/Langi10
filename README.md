@@ -1,3 +1,5 @@
+- Hi there! I'm Langi a web dev and techie! 
+
 - 👋 Hi, I’m Abdulrahman Omboke a.k.a @Langi
 - 👀 I’m interested in Web development, Web3, Web design, Crypto and Financial Freedom 
 - 🌱 I’m currently learning React and Web3 development, learning more each day
